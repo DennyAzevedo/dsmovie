@@ -5,7 +5,7 @@
 #### Com tecnologias API Restfull e Entity Framework
 
 Projeto desenvolvido para treinamento.  
-Projetos da Semana Spring React [DevSuperior](https://devsuperior.com.br/)
+Projeto da Semana Spring React da [DevSuperior](https://devsuperior.com.br/)
 
 _Tutor: Nelio Alves_
 
